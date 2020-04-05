@@ -1,5 +1,7 @@
 # college_plan_web
 
+Most Students in our society nowadays, have serious problems when it comes to managing their finances. Some overspend money and some spend normally but are still unable to save money even though they wish to. Most of them, after leaving college, in pursuit of jobs, do not have enough income to sustain themselves. In that light, they tend to involve themselves in shady businesses in order to make money. All this would have been avoided if they had saved some money in their college days.
+
 Introducing CollegePlan, a mobile money Manager and THE solution to finance mismanagement. Our target is students but the application can serve anyone with money management problems. CollegePlan will primarily be built as a mobile application.
 
 This application is intended to minimize as much as possible, money mismanagement in our communities especially the youths getting into the job market. It will provide the following functionalities in order to achieve this objective;

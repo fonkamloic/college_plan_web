@@ -539,12 +539,12 @@
     <!-- <script src="./assets/js/plugins.js"></script> -->
     <script src="./assets/js/main.js"></script>
     <script>
+        //TODO: pls move this logci somewhere appropriate. 
         function run() {
             // mobile screenshot align
-            if (screen.width <= 480) {
-                document.getElementById("first_screenshot").classList.add("col-lg-2");
-            } else {
+            if (screen.width > 480) {
                 document.getElementById("first_screenshot").classList.add("col-lg-6");
+
             }
         }
         run();

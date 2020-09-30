@@ -33,5 +33,3 @@ jobs:
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }} 
     
-          echo Add other actions to build,
-          echo test, and deploy your project.
